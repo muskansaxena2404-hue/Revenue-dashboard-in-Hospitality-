@@ -1,2 +1,3 @@
 # Revenue-dashboard-in-Hospitality-
 A revenue dashboard is built for Atliq hotels depicting its various KPIs visually.
+Relevant filters along with tooltip is provided in the dashboard.
